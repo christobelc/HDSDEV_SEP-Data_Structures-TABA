@@ -25,7 +25,7 @@ index product, and the minimum healthy eating index productand to print out a re
 
 
 Question 3:
-Using Dikjstra’s shortest path algorithm calculate the shortest path from Node Athrough to Node Hin the diagram below. 
+Using Dikjstra’s shortest path algorithm calculate the shortest path from Node A through to Node H in the diagram below. 
 You should clearly show each step of the algorithm. 
                   
                   A --> B: 2
